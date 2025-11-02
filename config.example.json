@@ -1,0 +1,15 @@
+{
+  "product": {
+    "name": "Example Product Name",
+    "url": "https://www.amazon.com/dp/PRODUCT_ID",
+    "target_price": 50.00
+  },
+  "email": {
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "from_email": "your-email@gmail.com",
+    "to_email": "recipient@gmail.com",
+    "password": "your-app-specific-password"
+  },
+  "notify_on_error": false
+}
